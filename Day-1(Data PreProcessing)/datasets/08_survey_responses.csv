@@ -1,0 +1,181 @@
+respondent_id,age_band,employment_status,annual_income,satisfaction,preferred_device,region_code,would_recommend
+R0001,25-34,Student,43163.0,Very satisfied,Laptop,REG_05,Definitely yes
+R0002,45+,Self-employed,,Satisfied,Laptop,REG_08,Definitely yes
+R0003,18-24,Student,80904.0,Very satisfied,Tablet,REG_01,Not sure
+R0004,45+,Unemployed,42183.0,Neutral,Desktop,REG_17,Definitely no
+R0005,18-24,Self-employed,46218.0,Neutral,Mobile,REG_17,Probably yes
+R0006,45+,Self-employed,65696.0,Very satisfied,Desktop,REG_12,Probably yes
+R0007,45+,Unemployed,113747.0,Dissatisfied,Tablet,REG_07,Definitely no
+R0008,,Unemployed,29651.0,Dissatisfied,Desktop,REG_08,Definitely yes
+R0009,45+,Self-employed,,Neutral,Laptop,REG_05,Probably no
+R0010,35-44,Self-employed,26195.0,Dissatisfied,Mobile,REG_10,
+R0011,25-34,,47691.0,Neutral,Laptop,REG_16,Probably no
+R0012,25-34,,10571.0,Dissatisfied,Laptop,REG_07,Not sure
+R0013,25-34,Unknown,36239.0,Neutral,Tablet,REG_15,Definitely yes
+R0014,35-44,Self-employed,22638.0,Neutral,Laptop,REG_01,Definitely yes
+R0015,35-44,Self-employed,41764.0,Very satisfied,Mobile,REG_14,
+R0016,25-34,Unemployed,,Dissatisfied,Laptop,REG_05,Not sure
+R0017,35-44,,65484.0,Satisfied,Mobile,REG_11,Definitely no
+R0018,25-34,Employed,36363.0,,Desktop,REG_06,Probably yes
+R0019,25-34,Student,20396.0,Neutral,Tablet,REG_12,
+R0020,45+,Employed,25011.0,Very satisfied,Laptop,REG_04,Probably yes
+R0021,18-24,Student,15403.0,Very satisfied,Mobile,REG_07,Probably yes
+R0022,25-34,Employed,66629.0,Neutral,Laptop,REG_01,Probably no
+R0023,35-44,Employed,,Dissatisfied,Tablet,REG_17,Not sure
+R0024,35-44,Self-employed,36386.0,Very dissatisfied,Mobile,REG_08,Probably no
+R0025,25-34,Self-employed,50488.0,Dissatisfied,Mobile,REG_08,Probably yes
+R0026,35-44,Unemployed,42425.0,Very satisfied,N/A,REG_04,Definitely yes
+R0027,45+,Student,124857.0,Satisfied,Desktop,REG_16,Probably no
+R0028,45+,Self-employed,,Very satisfied,Mobile,REG_12,Not sure
+R0029,18-24,Student,50274.0,Dissatisfied,Desktop,REG_11,Not sure
+R0030,35-44,Unemployed,15237.0,Neutral,Mobile,REG_01,Not sure
+R0031,45+,Student,52509.0,Very dissatisfied,Laptop,REG_06,Probably yes
+R0032,18-24,Student,56474.0,Very satisfied,Mobile,REG_13,
+R0033,45+,Unemployed,17724.0,Dissatisfied,Desktop,REG_06,Probably no
+R0034,45+,Unemployed,8567.0,Very satisfied,Tablet,REG_06,Definitely no
+R0035,35-44,Self-employed,34703.0,,Tablet,REG_06,Definitely yes
+R0036,25-34,Employed,70323.0,Neutral,Desktop,REG_08,Not sure
+R0037,35-44,Employed,62129.0,Very dissatisfied,Tablet,REG_15,Probably yes
+R0038,18-24,Self-employed,41770.0,Dissatisfied,Mobile,REG_01,Probably yes
+R0039,,Unemployed,48693.0,Neutral,Desktop,REG_04,Probably yes
+R0040,18-24,Employed,31426.0,Neutral,Tablet,REG_06,Probably no
+R0041,45+,Unemployed,54997.0,Satisfied,Laptop,REG_05,Not sure
+R0042,,Unemployed,49783.0,,Desktop,REG_12,Definitely no
+R0043,25-34,Student,25072.0,Very dissatisfied,Mobile,REG_14,Definitely no
+R0044,18-24,Self-employed,20069.0,Dissatisfied,Laptop,REG_07,Probably yes
+R0045,18-24,Employed,27121.0,Dissatisfied,Desktop,REG_99,Probably yes
+R0046,25-34,Unemployed,21503.0,Very satisfied,Laptop,REG_04,Definitely yes
+R0047,,Employed,,Dissatisfied,Mobile,REG_03,Definitely yes
+R0048,45+,Student,33551.0,Neutral,Tablet,REG_17,Not sure
+R0049,35-44,Unemployed,,Neutral,Mobile,REG_11,Definitely no
+R0050,45+,Student,16673.0,Very dissatisfied,Mobile,REG_12,Definitely no
+R0051,18-24,Student,40865.0,Neutral,Laptop,REG_11,Not sure
+R0052,18-24,Student,34706.0,Dissatisfied,Mobile,REG_04,Not sure
+R0053,18-24,Employed,27153.0,Very dissatisfied,Mobile,REG_14,Definitely yes
+R0054,25-34,Unemployed,44522.0,Dissatisfied,Desktop,REG_03,Definitely no
+R0055,45+,Self-employed,,Dissatisfied,Tablet,REG_13,Probably yes
+R0056,35-44,,22191.0,Very satisfied,Tablet,REG_12,Definitely no
+R0057,45+,Employed,22763.0,Very satisfied,Mobile,REG_05,Definitely no
+R0058,35-44,Student,16848.0,Dissatisfied,Tablet,REG_07,Probably yes
+R0059,35-44,Self-employed,,Satisfied,Desktop,REG_08,Definitely no
+R0060,45+,,46150.0,Satisfied,Desktop,REG_01,Definitely yes
+R0061,35-44,Student,,Satisfied,Desktop,REG_05,Probably yes
+R0062,35-44,Employed,,Dissatisfied,Desktop,REG_16,Probably yes
+R0063,25-34,Student,43859.0,,Desktop,REG_09,Definitely no
+R0064,18-24,Student,22260.0,Neutral,Laptop,REG_11,Probably yes
+R0065,45+,Self-employed,42098.0,Neutral,Mobile,REG_04,Probably yes
+R0066,18-24,Student,41239.0,Dissatisfied,Laptop,REG_17,Probably yes
+R0067,25-34,Employed,,Very satisfied,Laptop,REG_09,Probably no
+R0068,35-44,Employed,37100.0,Satisfied,Desktop,REG_10,Probably yes
+R0069,18-24,Unemployed,19863.0,Dissatisfied,Desktop,REG_08,Probably no
+R0070,25-34,Unemployed,40543.0,Dissatisfied,Laptop,REG_16,Not sure
+R0071,18-24,Student,23137.0,Neutral,Tablet,REG_17,Probably yes
+R0072,45+,Employed,19713.0,Very dissatisfied,Mobile,REG_08,Not sure
+R0073,45+,Unemployed,34766.0,Very dissatisfied,Laptop,REG_04,Definitely no
+R0074,18-24,Unemployed,,Very satisfied,Laptop,REG_06,Not sure
+R0075,35-44,Unemployed,13627.0,Neutral,Laptop,REG_11,
+R0076,45+,Self-employed,34255.0,Neutral,Desktop,REG_07,Definitely no
+R0077,45+,Employed,29052.0,,Mobile,REG_05,Probably yes
+R0078,25-34,Employed,29041.0,Neutral,Desktop,REG_11,Definitely yes
+R0079,35-44,Student,32629.0,Neutral,Laptop,REG_06,Definitely yes
+R0080,45+,Unemployed,26053.0,Satisfied,Desktop,REG_12,Probably yes
+R0081,25-34,Student,58235.0,Satisfied,Mobile,REG_05,Probably yes
+R0082,45+,Employed,56564.0,Neutral,Laptop,REG_02,Not sure
+R0083,45+,Student,,Satisfied,Mobile,REG_04,Probably no
+R0084,45+,Student,56490.0,Very dissatisfied,Tablet,REG_02,Probably no
+R0085,18-24,,57869.0,Very satisfied,Laptop,REG_06,Definitely yes
+R0086,45+,Employed,12278.0,Satisfied,Laptop,REG_16,Not sure
+R0087,45+,Student,36084.0,Dissatisfied,Laptop,REG_14,Definitely no
+R0088,25-34,Student,35954.0,Dissatisfied,Mobile,REG_13,Not sure
+R0089,45+,Student,69099.0,Very satisfied,Laptop,REG_02,Probably no
+R0090,45+,Student,21008.0,,Laptop,REG_06,Probably no
+R0091,45+,Unemployed,34145.0,Very satisfied,Tablet,REG_05,Not sure
+R0092,25-34,Unemployed,54571.0,Satisfied,Desktop,REG_11,Probably no
+R0093,25-34,Self-employed,53431.0,Very satisfied,Laptop,REG_12,Definitely yes
+R0094,35-44,Employed,44613.0,Neutral,Tablet,REG_15,Not sure
+R0095,25-34,Unemployed,45819.0,,Laptop,REG_02,Not sure
+R0096,,Student,35217.0,Very dissatisfied,Mobile,REG_06,Definitely no
+R0097,35-44,Employed,37166.0,Neutral,Tablet,REG_07,Probably yes
+R0098,35-44,Employed,27800.0,Very satisfied,Laptop,REG_01,Definitely no
+R0099,25-34,Employed,23666.0,Very satisfied,Laptop,REG_07,Definitely no
+R0100,25-34,Self-employed,40168.0,Very satisfied,Desktop,REG_05,Definitely no
+R0101,25-34,Student,49299.0,Neutral,Tablet,REG_12,Definitely no
+R0102,25-34,Unemployed,32362.0,Satisfied,Desktop,REG_02,Definitely no
+R0103,45+,Student,47704.0,Neutral,Mobile,REG_17,Definitely yes
+R0104,45+,Employed,58656.0,Very dissatisfied,Mobile,REG_02,Probably yes
+R0105,25-34,Student,25923.0,Very satisfied,Desktop,REG_15,Definitely yes
+R0106,18-24,Employed,22266.0,Neutral,Tablet,REG_07,Definitely no
+R0107,35-44,Self-employed,,Neutral,Desktop,REG_17,Definitely yes
+R0108,35-44,Employed,79029.0,Very satisfied,,REG_17,Not sure
+R0109,45+,Self-employed,,Neutral,Tablet,REG_11,Not sure
+R0110,25-34,Self-employed,24501.0,Dissatisfied,Mobile,REG_10,Definitely no
+R0111,45+,Unemployed,55142.0,Very satisfied,Laptop,REG_14,Not sure
+R0112,25-34,Unemployed,31466.0,Very satisfied,Desktop,REG_17,Not sure
+R0113,18-24,Student,64831.0,Neutral,Mobile,REG_04,Definitely no
+R0114,45+,Self-employed,65105.0,Very satisfied,Mobile,REG_08,Not sure
+R0115,45+,Employed,29823.0,Satisfied,Desktop,REG_07,Probably yes
+R0116,18-24,Unemployed,34091.0,Very satisfied,Laptop,REG_08,Not sure
+R0117,45+,Unemployed,61711.0,Very dissatisfied,Laptop,REG_11,Probably no
+R0118,35-44,Student,66208.0,Satisfied,Laptop,REG_02,Definitely no
+R0119,35-44,Student,99513.0,Very dissatisfied,Tablet,REG_11,Definitely no
+R0120,18-24,Self-employed,24371.0,Neutral,,REG_05,Definitely no
+R0121,25-34,Unemployed,57642.0,Very satisfied,Desktop,REG_03,Probably no
+R0122,45+,Self-employed,33106.0,Dissatisfied,Tablet,REG_16,Probably yes
+R0123,18-24,Self-employed,72897.0,Very satisfied,Desktop,REG_11,Definitely yes
+R0124,18-24,Self-employed,34811.0,Neutral,Mobile,REG_14,Definitely yes
+R0125,18-24,Employed,23878.0,Very satisfied,Laptop,REG_02,Not sure
+R0126,18-24,Student,30600.0,Dissatisfied,Mobile,REG_16,Definitely yes
+R0127,25-34,Self-employed,21027.0,Dissatisfied,Mobile,REG_06,Definitely yes
+R0128,18-24,Unemployed,29630.0,Very satisfied,Mobile,REG_11,Definitely no
+R0129,35-44,Employed,,Very dissatisfied,Tablet,REG_15,Probably no
+R0130,18-24,Unemployed,61496.0,Dissatisfied,Laptop,REG_01,Probably no
+R0131,18-24,Student,36379.0,Very dissatisfied,Laptop,REG_11,Probably yes
+R0132,18-24,Self-employed,140123.0,Neutral,Tablet,REG_02,Definitely no
+R0133,35-44,Employed,42594.0,Very satisfied,Mobile,REG_14,Definitely no
+R0134,45+,Student,38442.0,Neutral,Laptop,REG_10,Probably no
+R0135,35-44,Unemployed,35569.0,Very satisfied,Tablet,REG_12,Probably no
+R0136,35-44,Self-employed,,Very dissatisfied,Tablet,REG_06,Definitely no
+R0137,35-44,Self-employed,21101.0,Dissatisfied,Tablet,REG_13,Probably yes
+R0138,35-44,Student,,Very dissatisfied,Laptop,REG_04,Definitely yes
+R0139,18-24,Student,,Satisfied,Laptop,REG_09,Definitely no
+R0140,35-44,Student,,Very satisfied,Laptop,REG_16,Probably no
+R0141,35-44,Unemployed,51822.0,Satisfied,Desktop,REG_02,Definitely yes
+R0142,25-34,Self-employed,14669.0,Neutral,Mobile,REG_17,Not sure
+R0143,25-34,Employed,70594.0,Very satisfied,Tablet,REG_17,Definitely yes
+R0144,25-34,Unemployed,40724.0,Neutral,Tablet,REG_06,Probably no
+R0145,18-24,Unemployed,,Neutral,Tablet,REG_01,Probably no
+R0146,45+,Unemployed,62535.0,Very satisfied,Desktop,REG_15,Probably no
+R0147,18-24,Student,37511.0,Satisfied,,REG_09,Probably no
+R0148,25-34,Student,23860.0,,Laptop,REG_04,Probably no
+R0149,18-24,Employed,,Very dissatisfied,Laptop,REG_06,Not sure
+R0150,45+,Unemployed,68199.0,Dissatisfied,Tablet,REG_16,Definitely no
+R0151,45+,Student,38719.0,Neutral,Tablet,REG_09,
+R0152,35-44,Self-employed,30380.0,Very dissatisfied,Desktop,REG_05,Probably no
+R0153,18-24,Self-employed,86846.0,Satisfied,Tablet,REG_06,Not sure
+R0154,25-34,Unemployed,25380.0,Very dissatisfied,Mobile,REG_02,Probably no
+R0155,45+,Unemployed,,Very dissatisfied,Desktop,REG_03,Probably yes
+R0156,18-24,Student,10648.0,Dissatisfied,Laptop,REG_07,Probably no
+R0157,25-34,Self-employed,34820.0,Neutral,Tablet,REG_10,Not sure
+R0158,35-44,Student,10740.0,Neutral,Desktop,REG_05,Probably yes
+R0159,35-44,Unemployed,30905.0,Neutral,Desktop,REG_01,Probably yes
+R0160,25-34,,30133.0,Dissatisfied,Mobile,REG_01,Probably yes
+R0161,35-44,Student,44531.0,Neutral,Mobile,REG_04,Definitely yes
+R0162,45+,Self-employed,27466.0,Satisfied,Tablet,REG_12,Probably no
+R0163,45+,Student,21428.0,Very dissatisfied,Desktop,REG_06,Definitely no
+R0164,45+,Employed,58097.0,Dissatisfied,Desktop,REG_15,Definitely yes
+R0165,45+,Unemployed,40336.0,Neutral,Tablet,REG_11,Definitely no
+R0166,45+,Employed,54373.0,Very dissatisfied,Mobile,REG_12,Probably yes
+R0167,25-34,Employed,49847.0,Very dissatisfied,Mobile,REG_10,Definitely no
+R0168,25-34,Self-employed,18343.0,Satisfied,,REG_14,Definitely yes
+R0169,35-44,Student,131399.0,Very dissatisfied,Mobile,REG_14,Not sure
+R0170,35-44,Employed,10226.0,Neutral,Laptop,REG_05,Probably yes
+R0171,45+,Self-employed,63088.0,Dissatisfied,Tablet,REG_03,Definitely yes
+R0172,18-24,Unemployed,66475.0,Neutral,Tablet,REG_16,Definitely yes
+R0173,,Self-employed,57945.0,Very dissatisfied,Desktop,REG_13,Not sure
+R0174,35-44,,29069.0,Dissatisfied,Laptop,REG_03,Not sure
+R0175,45+,Self-employed,47379.0,Very dissatisfied,Mobile,REG_17,Probably no
+R0176,18-24,Self-employed,51490.0,Neutral,Mobile,REG_14,Definitely no
+R0177,18-24,Student,55801.0,Very satisfied,,REG_15,Definitely no
+R0178,18-24,Self-employed,53677.0,Very dissatisfied,Mobile,REG_14,
+R0179,18-24,Student,32308.0,,Mobile,REG_04,Definitely no
+R0180,25-34,Employed,,Very satisfied,Mobile,REG_01,Not sure

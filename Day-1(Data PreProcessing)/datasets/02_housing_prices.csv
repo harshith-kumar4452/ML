@@ -1,0 +1,221 @@
+listing_id,city,property_type,bedrooms,area_sqft,age_years,listed_date,parking,price_lakh
+H0001,Pune,Villa,5.0,1589.0,19.0,2025-01-01,No,63.58
+H0002,Bengaluru,Villa,3.0,1964.0,1.0,2025-01-02,Yes,66.94
+H0003,Delhi,Independent House,4.0,1045.0,26.0,2025-01-03,Yes,42.62
+H0004,Bengaluru,Apartment,3.0,2901.0,25.0,2025-01-04,Yes,41.17
+H0005,Pune,Villa,3.0,1941.0,41.0,2025-01-05,,52.42
+H0006,Hyderabad,Villa,3.0,1624.0,35.0,2025-01-06,,35.64
+H0007,Hyderabad,Independent House,3.0,2513.0,5.0,2025-01-07,Yes,47.35
+H0008,Pune,Independent House,1.0,2990.0,3.0,2025-01-08,Yes,91.63
+H0009,Chennai,Apartment,4.0,25.0,46.0,2025-01-09,No,95.15
+H0010,Pune,Villa,5.0,1363.0,36.0,2025-01-10,No,117.33
+H0011,Delhi,Independent House,4.0,1527.0,23.0,2025-01-11,No,39.48
+H0012,Delhi,Apartment,5.0,2513.0,33.0,2025-01-12,Yes,41.26
+H0013,Pune,Apartment,2.0,1483.0,39.0,2025-01-13,Yes,28.27
+H0014,Hyderabad,Villa,1.0,2515.0,12.0,2025-01-14,,62.32
+H0015,Hyderabad,Independent House,2.0,2454.0,4.0,2025-01-15,No,
+H0016,Hyderabad,Apartment,3.0,1987.0,48.0,2025-01-16,Yes,72.85
+H0017,Chennai,Apartment,2.0,1614.0,16.0,2025-01-17,No,42.76
+H0018,Delhi,Apartment,1.0,1728.0,42.0,2025-01-18,Yes,49.2
+H0019,Hyderabad,Apartment,2.0,,27.0,2025-01-19,Yes,52.19
+H0020,Delhi,Independent House,1.0,4127.0,30.0,2025-01-20,Yes,120.03
+H0021,Delhi,Apartment,3.0,1379.0,45.0,2025-01-21,No,51.04
+H0022,Hyderabad,Villa,3.0,922.0,,2025-01-22,Yes,76.44
+H0023,Chennai,Independent House,5.0,,,2025-01-23,Yes,86.91
+H0024,Pune,Independent House,2.0,2500.0,,2025-01-24,Yes,48.49
+H0025,Pune,Independent House,3.0,619.0,28.0,2025-01-25,No,203.05
+H0026,Bengaluru,Villa,2.0,2133.0,19.0,2025-01-26,Yes,126.75
+H0027,Chennai,Villa,4.0,1084.0,41.0,2025-01-27,No,140.93
+H0028,Bengaluru,Independent House,4.0,1770.0,3.0,2025-01-28,No,73.56
+H0029,Bengaluru,Apartment,5.0,2282.0,4.0,2025-01-29,No,48.52
+H0030,Delhi,Apartment,2.0,1535.0,36.0,2025-01-30,No,94.49
+H0031,Chennai,Villa,5.0,2291.0,9.0,2025-01-31,No,34.59
+H0032,Bengaluru,Apartment,4.0,2310.0,22.0,2025-02-01,No,99999.0
+H0033,Chennai,Villa,4.0,1431.0,13.0,2025-02-02,Yes,76.26
+H0034,Bengaluru,Independent House,2.0,1047.0,10.0,2025-02-03,No,96.41
+H0035,Delhi,Independent House,5.0,2455.0,13.0,2025-02-04,No,88.55
+H0036,Bengaluru,Apartment,1.0,4193.0,10.0,2025-02-05,No,29.3
+H0037,Pune,Apartment,5.0,,,2025-02-06,No,46.28
+H0038,Pune,Villa,4.0,1394.0,24.0,2025-02-07,Yes,166.59
+H0039,Bengaluru,Apartment,2.0,1392.0,49.0,2025-02-08,No,154.88
+H0040,Pune,Villa,5.0,2996.0,31.0,2025-02-09,Yes,97.05
+H0041,Bengaluru,Apartment,4.0,1736.0,0.0,2025-02-10,No,46.35
+H0042,Delhi,Villa,4.0,1306.0,41.0,2025-02-11,No,132.06
+H0043,Delhi,Independent House,5.0,3795.0,45.0,2025-02-12,No,
+H0044,Delhi,Apartment,2.0,,7.0,2025-02-13,Yes,38.09
+H0045,Bengaluru,Villa,5.0,1050.0,20.0,2025-02-14,No,66.76
+H0046,Chennai,Apartment,4.0,1059.0,31.0,unknown-date,Yes,127.69
+H0047,Delhi,Independent House,3.0,1060.0,4.0,2025-02-16,Yes,56.6
+H0048,Hyderabad,Villa,5.0,2472.0,21.0,2025-02-17,No,66.25
+H0049,Delhi,Villa,4.0,1303.0,33.0,2025-02-18,Yes,59.73
+H0050,Chennai,Independent House,4.0,3376.0,23.0,2025-02-19,No,95.13
+H0051,Delhi,Independent House,2.0,2210.0,19.0,2025-02-20,No,70.3
+H0052,Chennai,Villa,2.0,,27.0,2025-02-21,Yes,
+H0053,Pune,Villa,5.0,334.0,11.0,2025-02-22,No,55.04
+H0054,Pune,Apartment,3.0,726.0,11.0,2025-02-23,No,31.37
+H0055,Pune,Independent House,5.0,2158.0,22.0,2025-02-24,Yes,59.01
+H0056,Hyderabad,Apartment,2.0,1222.0,14.0,2025-02-25,Yes,61.55
+H0057,Chennai,Villa,5.0,2874.0,24.0,2025-02-26,Yes,66.89
+H0058,Chennai,Apartment,3.0,1928.0,31.0,2025-02-27,Yes,59.62
+H0059,Hyderabad,Villa,1.0,1213.0,7.0,2025-02-28,No,35.33
+H0060,Bengaluru,Apartment,4.0,2996.0,46.0,2025-03-01,Yes,44.34
+H0061,Bengaluru,Villa,4.0,1692.0,3.0,2025-03-02,No,97.16
+H0062,Delhi,Apartment,0.0,820.0,8.0,2025-03-03,Yes,50.28
+H0063,Chennai,Apartment,4.0,2217.0,38.0,2025-03-04,No,31.01
+H0064,Pune,Villa,5.0,2066.0,8.0,2025-03-05,No,88.05
+H0065,Bengaluru,Villa,3.0,585.0,,2025-03-06,No,50.68
+H0066,Pune,Villa,4.0,2559.0,45.0,2025-03-07,No,77.79
+H0067,Chennai,Villa,4.0,1952.0,,2025-03-08,No,57.52
+H0068,Delhi,Independent House,4.0,3923.0,45.0,2025-03-09,Yes,95.25
+H0069,Delhi,Independent House,4.0,3385.0,16.0,2025-03-10,No,32.37
+H0070,Hyderabad,Independent House,3.0,1805.0,15.0,2025-03-11,No,55.81
+H0071,Pune,Independent House,5.0,2295.0,23.0,2025-03-12,Yes,54.23
+H0072,Bengaluru,Apartment,1.0,2019.0,,2025-03-13,No,41.8
+H0073,Bengaluru,Villa,3.0,2054.0,20.0,2025-03-14,No,187.06
+H0074,Chennai,Apartment,2.0,1322.0,15.0,2025-03-15,No,86.94
+H0075,Chennai,Villa,3.0,1605.0,41.0,2025-03-16,Yes,46.65
+H0076,Hyderabad,Villa,2.0,1738.0,12.0,2025-03-17,Yes,25.61
+H0077,Chennai,Villa,4.0,3149.0,42.0,2025-03-18,Yes,111.12
+H0078, Hyderabad,Independent House,5.0,5982.0,12.0,2025-03-19,No,36.57
+H0079,Chennai,Independent House,,2155.0,41.0,2025-03-20,Yes,65.18
+H0080,Chennai,Apartment,2.0,1721.0,4.0,2025-03-21,Yes,31.47
+H0081,Delhi,Independent House,3.0,,30.0,2025-03-22,Yes,73.67
+H0082,Hyderabad,Apartment,3.0,1852.0,0.0,2025-03-23,No,40.57
+H0083,Hyderabad,Apartment,4.0,2336.0,35.0,2025-03-24,Yes,56.61
+H0084,Delhi,Independent House,2.0,1254.0,38.0,2025-03-25,No,29.03
+H0085,Hyderabad,Independent House,4.0,2705.0,6.0,2025-03-26,No,94.98
+H0086,Hyderabad,Apartment,2.0,2265.0,31.0,2025-03-27,No,
+H0087,Chennai,Apartment,3.0,741.0,14.0,2025-03-28,No,
+H0088,Hyderabad,Villa,5.0,2558.0,17.0,2025-03-29,Yes,41.2
+H0089,Pune,Villa,1.0,2023.0,45.0,2025-03-30,Yes,103.33
+H0090,Delhi,Independent House,5.0,3705.0,15.0,2025-03-31,No,174.31
+H0091,Hyderabad,Villa ,1.0,3573.0,46.0,2025-04-01,No,44.0
+H0092,Hyderabad,Apartment,3.0,3156.0,42.0,2025-04-02,No,64.99
+H0093,Pune,Villa,4.0,1707.0,30.0,2025-04-03,,64.1
+H0094,Bengaluru,Villa,1.0,1714.0,,2025-04-04,Yes,48.33
+H0095,Chennai,Villa,5.0,2417.0,22.0,2025-04-05,Yes,30.89
+H0096,Bengaluru,Villa,1.0,890.0,15.0,2025-04-06,No,8.72
+H0097,Hyderabad,Apartment,5.0,1866.0,36.0,2025-04-07,Yes,64.63
+H0098,Bengaluru,Independent House,4.0,1199.0,24.0,2025-04-08,No,56.28
+H0099,Hyderabad,Apartment,3.0,6523.0,33.0,2025-04-09,Yes,102.04
+H0100,Hyderabad,Independent House,5.0,1065.0,44.0,2025-04-10,Yes,71.9
+H0101,Bengaluru,Apartment,3.0,1575.0,22.0,2025-04-11,Yes,94.28
+H0102,Bengaluru,Apartment,2.0,2340.0,0.0,2025-04-12,Yes,34.66
+H0103,Pune,Villa,2.0,1675.0,34.0,2025-04-13,Yes,121.21
+H0104,Delhi,Villa,1.0,1516.0,,2025-04-14,No,155.74
+H0105,Bengaluru,Apartment,5.0,2015.0,45.0,2025-04-15,Yes,139.95
+H0106,Bengaluru,Independent House,2.0,1719.0,21.0,2025-04-16,No,33.19
+H0107,Hyderabad,Apartment,5.0,,21.0,2025-04-17,No,115.02
+H0108,Chennai,Apartment,3.0,1567.0,30.0,2025-04-18,Yes,26.74
+H0109,Chennai,Villa,1.0,1694.0,27.0,2025-04-19,No,87.53
+H0110,Delhi,Apartment,2.0,2291.0,34.0,2025-04-20,Yes,103.34
+H0111,Bengaluru,Apartment,2.0,2385.0,,2025-04-21,Yes,23.55
+H0112,Delhi,Apartment,4.0,1534.0,49.0,2025-04-22,No,63.63
+H0113,Delhi,Apartment,,,1.0,2025-04-23,Yes,54.8
+H0114,Hyderabad,Independent House,5.0,2120.0,8.0,2025-04-24,Yes,96.49
+H0115,Delhi,Villa,3.0,2910.0,35.0,2025-04-25,No,36.57
+H0116,Chennai,Independent House,2.0,3458.0,23.0,2025-04-26,Yes,80.14
+H0117,Chennai,Independent House,4.0,3144.0,11.0,2025-04-27,No,56.87
+H0118,Hyderabad,Villa,2.0,1363.0,11.0,2025-04-28,Yes,27.32
+H0119,Hyderabad,Villa,2.0,2475.0,5.0,2025-04-29,No,79.59
+H0120,Hyderabad,Independent House,5.0,2528.0,41.0,2025-04-30,Yes,37.09
+H0121,Pune,Apartment,5.0,2144.0,14.0,2025-05-01,,84.35
+H0122,Chennai,Apartment,4.0,1407.0,13.0,2025-05-02,No,
+H0123,Delhi,Villa,4.0,1868.0,30.0,2025-05-03,Yes,65.88
+H0124,Hyderabad,Apartment,,1771.0,0.0,2025-05-04,No,106.52
+H0125,Hyderabad,Apartment,3.0,2357.0,37.0,2025-05-05,No,44.01
+H0126,Bengaluru,Villa,3.0,814.0,4.0,2025-05-06,No,39.51
+H0127,Hyderabad,Villa,4.0,1704.0,15.0,2025-05-07,Yes,22.61
+H0128,Pune,Independent House,3.0,2608.0,27.0,2025-05-08,No,36.39
+H0129,Bengaluru,Apartment,1.0,2211.0,41.0,2025-05-09,No,62.38
+H0130,Chennai,Villa,1.0,2251.0,22.0,2025-05-10,No,39.66
+H0131,Chennai,Independent House,4.0,1328.0,38.0,2025-05-11,Yes,106.42
+H0132,Pune,Apartment,3.0,2699.0,24.0,2025-05-12,No,45.05
+H0133,Bengaluru,Villa,,1044.0,34.0,2025-05-13,No,66.28
+H0134,Hyderabad,Apartment,5.0,1478.0,34.0,2025-05-14,No,129.22
+H0135,Delhi,Villa,2.0,2075.0,40.0,2025-05-15,Yes,27.5
+H0136,Pune,Apartment,,1996.0,44.0,2025-05-16,Yes,37.69
+H0137,Delhi,Independent House,1.0,1778.0,0.0,2025-05-17,Yes,50.03
+H0138,Bengaluru,Independent House,5.0,1300.0,4.0,2025-05-18,No,
+H0139,Delhi,Apartment,1.0,1129.0,44.0,2025-05-19,Yes,83.01
+H0140,Chennai,Apartment,2.0,3357.0,30.0,2025-05-20,No,142.71
+H0141,Chennai,Apartment,2.0,1568.0,18.0,2025-05-21,No,41.37
+H0142,Bengaluru,Independent House,2.0,1592.0,19.0,2025-05-22,Yes,74.09
+H0143,Chennai,Villa,5.0,1990.0,12.0,2025-05-23,Yes,54.55
+H0144,Pune,Apartment,5.0,2972.0,14.0,2025-05-24,No,69.3
+H0145,Hyderabad,Independent House,2.0,1523.0,11.0,2025-05-25,No,56.67
+H0146,Delhi,Independent House,3.0,1028.0,11.0,2025-05-26,Yes,71.58
+H0147,Hyderabad,Apartment,1.0,2917.0,40.0,2025-05-27,Yes,58.3
+H0148,Delhi,Villa,3.0,1172.0,15.0,2025-05-28,No,123.99
+H0149,Pune,Independent House,2.0,1665.0,26.0,2025-05-29,No,22.29
+H0150,Bengaluru,Villa,3.0,3281.0,44.0,2025-05-30,Yes,100.12
+H0151,Bengaluru,Independent House,5.0,1077.0,7.0,2025-05-31,Yes,26.24
+H0152,Pune,Apartment,2.0,3404.0,28.0,2025-06-01,Yes,145.12
+H0153,Pune,Independent House,1.0,2770.0,3.0,2025-06-02,No,71.08
+H0154,Delhi,Independent House,,3085.0,45.0,2025-06-03,Yes,22.54
+H0155,Chennai,Villa,4.0,1626.0,,2025-06-04,Yes,23.59
+H0156,Pune,Villa,2.0,2209.0,5.0,2025-06-05,Yes,34.89
+H0157,Chennai,Independent House,2.0,1215.0,24.0,2025-06-06,Yes,58.92
+H0158,Hyderabad,Independent House,1.0,1192.0,22.0,2025-06-07,Yes,38.99
+H0159,Pune,Villa,3.0,1724.0,3.0,2025-06-08,,60.32
+H0160,Delhi,Villa,4.0,,30.0,2025-06-09,No,66.61
+H0161,Hyderabad,Villa,1.0,7236.0,24.0,2025-06-10,Yes,55.9
+H0162,Delhi,Villa,5.0,2122.0,32.0,2025-06-11,No,24.22
+H0163,Hyderabad,Villa,1.0,1907.0,22.0,2025-06-12,Yes,34.21
+H0164,Bengaluru,Apartment,2.0,1159.0,12.0,2025-06-13,,33.65
+H0165,Bengaluru,Villa,5.0,2728.0,4.0,2025-06-14,No,130.36
+H0166,Pune,Villa,2.0,1822.0,34.0,2025-06-15,No,
+H0167,Delhi,Villa,5.0,907.0,1.0,2025-06-16,Yes,36.57
+H0168,Pune,Independent House,,2229.0,31.0,2025-06-17,No,52.38
+H0169,Bengaluru,Villa,1.0,873.0,7.0,2025-06-18,No,28.43
+H0170,Pune,Apartment,4.0,2066.0,,2025-06-19,No,66.12
+H0171,Bengaluru,Apartment,4.0,1941.0,45.0,2025-06-20,,150.73
+H0172,Chennai,Villa,3.0,1844.0,37.0,2025-06-21,No,48.34
+H0173,Chennai,Villa,5.0,2378.0,3.0,2025-06-22,Yes,21.29
+H0174,Chennai,Villa,3.0,1685.0,38.0,2025-06-23,Yes,56.67
+H0175,Bengaluru,Independent House,5.0,2864.0,25.0,2025-06-24,No,43.49
+H0176,Pune,Independent House,5.0,,28.0,2025-06-25,Yes,28.92
+H0177,Delhi,Villa,4.0,2279.0,3.0,2025-06-26,No,64.55
+H0178,Delhi,Independent House,2.0,1409.0,38.0,2025-06-27,Yes,63.16
+H0179,Bengaluru,Villa,5.0,711.0,18.0,2025-06-28,Yes,45.01
+H0180,Pune,Apartment,1.0,5110.0,34.0,2025-06-29,Yes,44.19
+H0181,Hyderabad,Apartment,2.0,3873.0,7.0,2025-06-30,Yes,38.66
+H0182,Bengaluru,Independent House,5.0,2708.0,10.0,2025-07-01,No,78.8
+H0183,Delhi,Villa,3.0,1131.0,0.0,2025-07-02,Yes,160.33
+H0184,Hyderabad,Villa,2.0,2939.0,39.0,2025-07-03,Yes,45.63
+H0185,Bengaluru,Apartment,1.0,2411.0,34.0,2025-07-04,No,60.65
+H0186,Hyderabad,Apartment,3.0,3606.0,11.0,2025-07-05,No,35.56
+H0187,Delhi,Apartment,2.0,2807.0,,2025-07-06,Yes,41.55
+H0188,Hyderabad,Villa,2.0,2740.0,14.0,2025-07-07,No,48.76
+H0189,Chennai,Independent House,4.0,2951.0,24.0,2025-07-08,No,53.72
+H0190,Bengaluru,Apartment,4.0,639.0,48.0,2025-07-09,No,60.16
+H0191,Hyderabad,Apartment,2.0,2736.0,23.0,2025-07-10,No,50.26
+H0192,Bengaluru,Villa,5.0,911.0,33.0,2025-07-11,No,207.42
+H0193,Pune,Villa,1.0,3189.0,15.0,2025-07-12,Yes,42.48
+H0194,Hyderabad,Villa,1.0,1278.0,37.0,2025-07-13,No,26.17
+H0195,Bengaluru,Villa,3.0,985.0,27.0,2025-07-14,Yes,56.75
+H0196,Hyderabad,Independent House,5.0,1610.0,36.0,2025-07-15,Yes,65.58
+H0197,Delhi,Apartment,5.0,,47.0,2025-07-16,No,91.32
+H0198,Pune,Villa,1.0,1940.0,,2025-07-17,No,116.97
+H0199,Pune,Independent House,4.0,1587.0,48.0,2025-07-18,Yes,95.99
+H0200,Pune,Apartment,4.0,1364.0,46.0,2025-07-19,Yes,77.96
+H0201,Bengaluru,Apartment,3.0,915.0,46.0,2025-07-20,Yes,112.22
+H0202,Hyderabad,Independent House,1.0,1255.0,47.0,2025-07-21,Yes,47.04
+H0203,Hyderabad,Apartment,4.0,1031.0,12.0,2025-07-22,Yes,56.25
+H0204,Pune,Villa,1.0,672.0,33.0,2025-07-23,Yes,94.08
+H0205,Pune,Independent House,4.0,2272.0,30.0,2025-07-24,No,172.31
+H0206,Chennai,Independent House,3.0,1433.0,42.0,2025-07-25,No,43.48
+H0207,Pune,Villa,,1235.0,35.0,2025-07-26,No,98.73
+H0208,Chennai,Apartment,5.0,1621.0,49.0,2025-07-27,Yes,32.41
+H0209,Hyderabad,Apartment,3.0,940.0,13.0,2025-07-28,Yes,60.75
+H0210,Chennai,Independent House,4.0,1171.0,47.0,2025-07-29,Yes,63.12
+H0211,Delhi,Villa,5.0,1178.0,36.0,2025-07-30,No,87.06
+H0212,Hyderabad,Apartment,,2979.0,7.0,2025-07-31,,29.18
+H0213,Hyderabad,Villa,,3233.0,7.0,2025-08-01,Yes,83.8
+H0214,Pune,Independent House,4.0,1181.0,9.0,2025-08-02,Yes,110.58
+H0215,Chennai,Independent House,2.0,1656.0,30.0,2025-08-03,No,53.53
+H0216,Delhi,Apartment,3.0,1350.0,29.0,2025-08-04,No,32.97
+H0217,Pune,Villa,3.0,1132.0,17.0,2025-08-05,No,77.14
+H0218,Bengaluru,Independent House,5.0,,11.0,2025-08-06,No,26.96
+H0219,Delhi,Apartment,3.0,2193.0,21.0,2025-08-07,No,82.72
+H0220,Delhi,Villa,4.0,1186.0,40.0,2025-08-08,Yes,39.88

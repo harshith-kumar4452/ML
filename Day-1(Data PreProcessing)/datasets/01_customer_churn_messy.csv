@@ -1,0 +1,243 @@
+customer_id,age,monthly_charge,tenure_months,contract,internet_service,payment_method,autopay,support_tickets,churn
+C0001,37.0,71.48,30.0,Month-to-month,Fiber,Mailed check,No,1.0,0
+C0002,32.0,,49.0,Two year,None,Bank transfer,Yes,3.0,0
+C0003,54.0,72.14,23.0,Two year,DSL,Electronic check,Yes,2.0,0
+C0004,190.0,78.99,105.0,Month-to-month,None,Electronic check,Yes,4.0,0
+C0005,44.0,88.28,27.0,Month-to-month,Fiber,Electronic check,Yes,1.0,1
+C0006,26.0,49.54,5.0,Two year,Fiber,Bank transfer,Yes,4.0,0
+C0007,21.0,60.33,4.0,Month-to-month,DSL,,No,1.0,0
+C0008,49.0,,2.0,Month-to-month,Fiber,Card,Yes,2.0,1
+C0009,33.0,53.54,31.0,Month-to-month,DSL,Mailed check,Yes,3.0,1
+C0010,41.0,35.04,14.0,Two year,DSL,Electronic check,No,2.0,0
+C0011,,59.15,120.0,Month-to-month,Fiber,Electronic check,No,2.0,0
+C0012,73.0,69.9,33.0,Month-to-month,DSL,Card,Yes,1.0,0
+C0013,52.0,83.26,104.0,Month-to-month,Fiber,Card,Yes,2.0,0
+C0014,72.0,79.76,110.0,Two year,None,Mailed check,No,3.0,1
+C0015,39.0,41.86,17.0,Month-to-month,Fiber,Card,Yes,1.0,0
+C0016,34.0,51.17,11.0,Month-to-month,Fiber,Electronic check,Yes,1.0,1
+C0017,28.0,31.61,116.0,Month-to-month,Fiber,,No,2.0,0
+C0018,63.0,74.44,85.0,Month-to-month,DSL,Card,Yes,2.0,0
+C0019,68.0,9999.0,44.0,One year,DSL,Electronic check,No,2.0,0
+C0020,41.0,74.25,66.0,Month-to-month,DSL,Bank transfer,Yes,1.0,0
+C0021,71.0,58.82,78.0,Month-to-month,DSL,Mailed check,Yes,3.0,0
+C0022,,76.71,90.0,Month-to-month,DSL,Mailed check,Yes,3.0,0
+C0023,22.0,72.85,87.0,Month-to-month,Fiber,Electronic check,Yes,1.0,0
+C0024,26.0,69.03,56.0,Two year,DSL,Electronic check,No,-4.0,0
+C0025,,78.67,87.0,One year,Fiber,Card,Yes,2.0,0
+C0026,39.0,71.31,114.0,Month-to-month,None,Card,No,3.0,0
+C0027,70.0,,91.0,Month-to-month,Fiber,Card,No,0.0,0
+C0028,38.0,48.05,7.0,Two year,Fiber,Mailed check,No,1.0,0
+C0029,54.0,56.3,42.0,Month-to-month,DSL,Electronic check,Yes,1.0,1
+C0030,48.0,70.75,23.0,Month-to-month ,DSL,Card,No,2.0,1
+C0031,23.0,49.56,55.0,Month-to-month,None,Mailed check,No,1.0,0
+C0032,51.0,45.65,26.0,Two year,DSL,Mailed check,No,0.0,0
+C0033,46.0,40.71,113.0,Month-to-month,None,Card,Yes,1.0,0
+C0034,71.0,107.13,60.0,Month-to-month,DSL,,No,2.0,0
+C0035,,43.58,28.0,Month-to-month,None,Electronic check,Yes,1.0,0
+C0036,43.0,49.11,89.0,Month-to-month,DSL,Bank transfer,No,2.0,0
+C0037,55.0,105.21,61.0,One year,DSL,Mailed check,Yes,4.0,1
+C0038,29.0,104.53,15.0,Month-to-month,Fiber,Card,Yes,1.0,1
+C0039,39.0,66.52,114.0,,DSL,Mailed check,Yes,3.0,0
+C0040,34.0,73.94,9.0,Month-to-month,Fiber,Card,No,1.0,0
+C0041,48.0,68.38,98.0,Month-to-month,None,Card,Y,3.0,0
+C0042,31.0,,61.0,Month-to-month,None,Bank transfer,No,1.0,1
+C0043,43.0,90.54,76.0,Month-to-month,Fiber,Bank transfer,Yes,2.0,1
+C0044,44.0,62.7,70.0,Month-to-month,Fiber,Electronic check,No,4.0,0
+C0045,60.0,45.5,70.0,Month-to-month,Fiber,Mailed check,No,1.0,0
+C0046,50.0,78.61,76.0,One year,DSL,Bank transfer,No,2.0,0
+C0047,27.0,92.57,71.0,One year,DSL,Electronic check,No,1.0,0
+C0048,19.0,68.71,97.0,Two year,DSL,Bank transfer,Yes,1.0,1
+C0049,57.0,60.55,21.0,Month-to-month,None,,Yes,2.0,1
+C0050,49.0,72.58,62.0,Month-to-month,Fiber,Electronic check,Yes,3.0,0
+C0051,,55.21,110.0,Two year,Fiber,Electronic check,Yes,2.0,0
+C0052,75.0,62.07,62.0,Month-to-month,DSL,Bank transfer,Yes,4.0,1
+C0053,,,102.0,One year,Fiber,unknown,Yes,1.0,0
+C0054,,50.87,51.0,Two year,Fiber,Bank transfer,Yes,2.0,0
+C0055,29.0,50.86,0.0,One year,DSL,Card,No,3.0,0
+C0056,57.0,81.36,118.0,Two year,Fiber,Bank transfer,Yes,0.0,0
+C0057,47.0,62.2,52.0,Month-to-month,Fiber,Card,Yes,0.0,1
+C0058,40.0,66.3,83.0,Month-to-month,Fiber,Bank transfer,Yes,4.0,1
+C0059,24.0,92.47,36.0,,DSL,Mailed check,No,1.0,0
+C0060,75.0,64.6,102.0,One year,DSL,Card,Yes,2.0,0
+C0061,34.0,59.81,6.0,Month-to-month,DSL,Card,No,1.0,0
+C0062,41.0,65.93,100.0,One year,Fiber,Bank transfer,Yes,1.0,0
+C0063,60.0,66.94,46.0,Month-to-month,Fiber,Card,No,2.0,0
+C0064,22.0,60.78,18.0,Two year,DSL,Bank transfer,No,3.0,1
+C0065,39.0,52.0,1.0,One year,Fiber,,Yes,1.0,0
+C0066,40.0,80.4,51.0,One year,DSL,Card,No,0.0,0
+C0067,59.0,51.01,86.0,Month-to-month,Fiber,Mailed check,No,2.0,0
+C0068,34.0,61.5,108.0,Month-to-month,Fiber,Card,Yes,2.0,1
+C0069,40.0,68.77,119.0,Month-to-month,Fiber,Mailed check,No,2.0,0
+C0070,21.0,53.45,26.0,One year,DSL,Electronic check,Yes,2.0,0
+C0071,27.0,,29.0,Two year,None,Card,Yes,5.0,0
+C0072,36.0,61.62,25.0,One year,Fiber,Card,No,0.0,0
+C0073,48.0,70.48,10.0,One year,Fiber,Electronic check,Yes,4.0,0
+C0074,20.0,78.24,104.0,Two year,Fiber,Bank transfer,No,2.0,0
+C0075,72.0,67.39,94.0,Month-to-month,Fiber,,No,4.0,0
+C0076,19.0,51.06,21.0,One year,DSL,Bank transfer,No,2.0,0
+C0077,49.0,89.94,10.0,Month-to-month,DSL,Electronic check,Yes,2.0,1
+C0078,22.0,85.99,109.0,,DSL,Card,No,1.0,0
+C0079,29.0,57.61,116.0,One year,Fiber,Electronic check,Yes,2.0,0
+C0080,69.0,,6.0,Two year,DSL,Card,Yes,1.0,0
+C0081,34.0,93.16,115.0,Month-to-month,None,Bank transfer,Yes,2.0,1
+C0082,35.0,78.72,41.0,Month-to-month,Fiber,Card,No,0.0,0
+C0083,46.0,96.74,90.0,Month-to-month,DSL,Electronic check,No,1.0,0
+C0084,75.0,,99.0,Two year,DSL,Electronic check,Yes,2.0,1
+C0085,25.0,89.52,33.0,Month-to-month,Fiber,Mailed check,No,4.0,0
+C0086,20.0,73.24,71.0,Month-to-month,Fiber,Card,Yes,1.0,1
+C0087,29.0,105.33,80.0,One year,DSL,Mailed check,No,3.0,1
+C0088,60.0,75.54,71.0,One year,DSL,Electronic check,Yes,0.0,0
+C0089,38.0,59.8,61.0,Month-to-month,DSL,Bank transfer,Yes,2.0,0
+C0090,72.0,69.53,120.0,Month-to-month,Fiber,Card,Yes,2.0,0
+C0091,66.0,,80.0,Month-to-month,DSL,Bank transfer,Yes,2.0,0
+C0092,50.0,60.3,34.0,Month-to-month,Fiber,Bank transfer,No,2.0,0
+C0093,30.0,71.2,56.0,Two year,DSL,Card,Yes,2.0,1
+C0094,31.0,70.87,116.0,Month-to-month,Fiber,Electronic check,Yes,1.0,0
+C0095,19.0,62.11,23.0,Month-to-month,Fiber,Mailed check,No,5.0,0
+C0096,72.0,22.6,52.0,,DSL,,No,3.0,0
+C0097,39.0,78.95,85.0,One year,Fiber,Card,No,1.0,1
+C0098,68.0,49.18,100.0,Month-to-month,Fiber,Mailed check,No,1.0,0
+C0099,47.0,57.79,100.0,One year,Fiber,Electronic check,No,0.0,0
+C0100,38.0,35.54,54.0,,None,Electronic check,No,0.0,0
+C0101,,81.84,15.0,Month-to-month,Fiber,Bank transfer,Yes,1.0,0
+C0102,66.0,89.85,47.0,Two year,None,Electronic check,No,0.0,0
+C0103,30.0,64.21,100.0,One year,Fiber,Mailed check,No,1.0,0
+C0104,37.0,56.73,3.0,One year,Fiber,Bank transfer,Yes,1.0,0
+C0105,23.0,47.68,87.0,Month-to-month,DSL,Mailed check,No,5.0,0
+C0106,75.0,78.42,117.0,One year,Fiber,Mailed check,No,0.0,0
+C0107,71.0,39.72,82.0,Month-to-month,DSL,Mailed check,No,2.0,0
+C0108,40.0,33.18,120.0,One year,DSL,Mailed check,No,2.0,0
+C0109,65.0,49.42,4.0,One year,DSL,Card,Yes,3.0,0
+C0110,,84.99,20.0,One year,DSL,Electronic check,Yes,3.0,0
+C0111,20.0,62.44,111.0,,Fiber,Card,No,3.0,0
+C0112,43.0,,116.0,One year,DSL,Mailed check,No,2.0,1
+C0113,34.0,60.17,80.0,Two year,None,Bank transfer,No,3.0,0
+C0114,33.0,88.87,74.0,Two year,None,Bank transfer,No,0.0,0
+C0115,32.0,72.57,96.0,Two year,DSL,Electronic check,No,0.0,1
+C0116,22.0,72.78,11.0,Month-to-month,DSL,Bank transfer,Yes,1.0,0
+C0117,44.0,55.44,102.0,One year,Fiber,Mailed check,No,2.0,0
+C0118,58.0,98.83,3.0,Month-to-month,DSL,Electronic check,No,4.0,0
+C0119,50.0,71.55,75.0,Month-to-month,Fiber,Bank transfer,No,1.0,0
+C0120,75.0,,4.0,Month-to-month,Fiber,Mailed check,No,1.0,0
+C0121,39.0,39.91,54.0,One year,DSL,Electronic check,Yes,5.0,0
+C0122,,61.81,46.0,Two year,Fiber,Card,Yes,5.0,0
+C0123,38.0,88.33,42.0,Month-to-month,None,Electronic check,No,4.0,0
+C0124,53.0,63.3,114.0,Two year,DSL,Electronic check,No,3.0,1
+C0125,59.0,50.12,92.0,Month-to-month,None,Bank transfer,Yes,4.0,1
+C0126,24.0,60.82,101.0,Month-to-month,Fiber,Card,Yes,4.0,0
+C0127,73.0,60.51,62.0,Month-to-month,None,Card,No,0.0,0
+C0128,,64.58,62.0,Two year,Fiber,Bank transfer,No,3.0,0
+C0129,46.0,63.3,74.0,One year,Fiber,Bank transfer,No,4.0,1
+C0130,54.0,71.59,2.0,Month-to-month,DSL,Mailed check,No,0.0,0
+C0131,,62.99,46.0,Month-to-month,None,Mailed check,No,2.0,0
+C0132,,41.55,15.0,Two year,DSL,Card,No,0.0,1
+C0133,26.0,57.09,103.0,Month-to-month,DSL,Bank transfer,No,1.0,0
+C0134,75.0,47.39,101.0,One year,Fiber,Mailed check,No,1.0,1
+C0135,25.0,114.2,99.0,Two year,DSL,Bank transfer,No,3.0,0
+C0136,27.0,77.08,104.0,One year,Fiber,Mailed check,Yes,1.0,0
+C0137,67.0,75.2,9.0,One year,Fiber,Bank transfer,Yes,1.0,1
+C0138,19.0,84.52,116.0,One year,Fiber,,No,1.0,1
+C0139,49.0,88.95,106.0,Month-to-month,DSL,Card,Yes,1.0,0
+C0140,35.0,105.81,107.0,Two year,DSL,Mailed check,No,3.0,1
+C0141,27.0,78.97,92.0,,Fiber,Mailed check,No,2.0,0
+C0142,19.0,66.27,14.0,Month-to-month,DSL,Bank transfer,No,5.0,0
+C0143,43.0,71.57,95.0,Month-to-month,Fiber,Card,Yes,2.0,0
+C0144,74.0,35.81,76.0,One year,DSL,Mailed check,No,5.0,0
+C0145,36.0,80.7,19.0,Month-to-month,DSL,Electronic check,No,1.0,0
+C0146,47.0,75.28,66.0,Two year,DSL,Card,Yes,0.0,0
+C0147,33.0,83.89,81.0,Month-to-month,DSL,Mailed check,No,3.0,1
+C0148,53.0,69.9,22.0,Month-to-month,Fiber,Electronic check,No,4.0,0
+C0149,35.0,51.6,13.0,,DSL,Bank transfer,Yes,3.0,0
+C0150,53.0,50.75,1.0,,DSL,Card,Yes,3.0,0
+C0151,65.0,74.45,47.0,Two year,DSL,Card,Yes,2.0,0
+C0152,,70.23,89.0,One year,Fiber,Electronic check,Yes,4.0,0
+C0153,41.0,55.86,104.0,Two year,Fiber,Electronic check,Yes,2.0,0
+C0154,40.0,54.97,39.0,Two year,None,Bank transfer,No,1.0,0
+C0155,46.0,67.32,25.0,One year,Fiber,Bank transfer,Yes,2.0,0
+C0156,40.0,67.6,23.0,Month-to-month,DSL,Electronic check,Yes,1.0,0
+C0157,61.0,85.9,10.0,Month-to-month,Fiber,Mailed check,No,0.0,1
+C0158,70.0,46.51,75.0,,DSL,,No,1.0,0
+C0159,55.0,104.98,9.0,One year,DSL,Mailed check,No,1.0,0
+C0160,39.0,62.56,112.0,Month-to-month,Fiber,Card,Yes,0.0,0
+C0161,33.0,76.74,48.0,One year,DSL,Electronic check,Yes,3.0,1
+C0162,23.0,41.03,90.0,One year,Fiber,Bank transfer,Yes,3.0,0
+C0163,74.0,81.21,11.0,Month-to-month,Fiber,Mailed check,No,4.0,0
+C0164,50.0,92.36,13.0,Month-to-month,DSL,Mailed check,No,4.0,0
+C0165,66.0,40.52,38.0,Month-to-month,Fiber,Bank transfer,No,1.0,0
+C0166,26.0,65.32,28.0,Month-to-month,DSL,Bank transfer,Yes,2.0,0
+C0167,34.0,83.91,94.0,Month-to-month,Fiber,Card,No,1.0,0
+C0168,66.0,48.73,120.0,Two year,Fiber,Card,Yes,3.0,1
+C0169,,76.14,61.0,One year,None,Card,No,2.0,0
+C0170,46.0,,107.0,Month-to-month,DSL,Electronic check,Yes,0.0,1
+C0171,48.0,93.2,65.0,One year,Fiber,Mailed check,Yes,1.0,0
+C0172,37.0,36.13,109.0,Month-to-month,DSL,,Yes,2.0,1
+C0173,57.0,83.15,22.0,Month-to-month,Fiber,Electronic check,Yes,1.0,0
+C0174,25.0,83.27,89.0,Month-to-month,Fiber,Electronic check,No,2.0,1
+C0175,66.0,68.25,68.0,Two year,None,Card,No,1.0,0
+C0176,34.0,75.41,112.0,,Fiber,Bank transfer,Yes,3.0,0
+C0177,26.0,,49.0,Month-to-month,Fiber,Bank transfer,No,1.0,0
+C0178,61.0,82.55,120.0,Month-to-month,Fiber,Card,No,3.0,0
+C0179,20.0,,3.0,Month-to-month,None,Card,Yes,0.0,0
+C0180,62.0,74.47,85.0,Month-to-month,DSL,Card,No,2.0,0
+C0181,55.0,46.78,107.0,Month-to-month,Fiber,Mailed check,No,1.0,0
+C0182,40.0,57.93,74.0,Month-to-month,Fiber,Mailed check,No,1.0,1
+C0183,18.0,61.37,54.0,Two year,None,Bank transfer,Yes,2.0,0
+C0184,46.0,,4.0,One year,None,Mailed check,Yes,1.0,1
+C0185,42.0,42.26,63.0,Month-to-month,Fiber,Bank transfer,No,2.0,0
+C0186,69.0,73.68,118.0,Month-to-month,Fiber,Electronic check,No,4.0,0
+C0187,25.0,43.21,11.0,Month-to-month,DSL,Electronic check,No,3.0,0
+C0188,22.0,53.99,30.0,Month-to-month,None,Card,No,1.0,0
+C0189,18.0,78.71,17.0,Month-to-month,DSL,Bank transfer,Yes,1.0,0
+C0190,42.0,72.33,92.0,Month-to-month,None,Mailed check,Yes,0.0,1
+C0191,34.0,,25.0,Two year,DSL,Electronic check,Yes,2.0,0
+C0192,33.0,77.27,81.0,,DSL,Card,No,4.0,0
+C0193,37.0,55.0,38.0,One year,DSL,Mailed check,Yes,2.0,0
+C0194,41.0,42.83,97.0,One year,Fiber,Electronic check,Yes,1.0,1
+C0195,45.0,67.75,81.0,Month-to-month,DSL,Electronic check,Yes,0.0,0
+C0196,41.0,39.13,29.0,,DSL,Mailed check,Yes,2.0,1
+C0197,54.0,73.53,35.0,One year,DSL,Card,No,0.0,0
+C0198,19.0,56.55,119.0,Month-to-month,DSL,Card,Yes,3.0,0
+C0199,40.0,,81.0,Month-to-month,DSL,Bank transfer,No,3.0,0
+C0200,52.0,,37.0,Two year,Fiber,Bank transfer,No,1.0,1
+C0201,32.0,66.76,42.0,One year,Fiber,Mailed check,No,1.0,0
+C0202,50.0,82.41,27.0,Month-to-month,Fiber,Bank transfer,No,3.0,1
+C0203,62.0,,2.0,Month-to-month,DSL,Mailed check,Yes,4.0,0
+C0204,,105.8,40.0,Month-to-month,Fiber,Bank transfer,No,1.0,0
+C0205,28.0,49.68,29.0,Month-to-month,None,Electronic check,No,1.0,0
+C0206,71.0,,2.0,,None,,No,1.0,0
+C0207,,85.26,109.0,One year,None,Mailed check,No,1.0,0
+C0208,20.0,45.97,6.0,Month-to-month,DSL,Mailed check,No,3.0,0
+C0209,50.0,78.22,48.0,One year,Fiber,Mailed check,Yes,0.0,0
+C0210,59.0,71.57,42.0,Month-to-month,None,Electronic check,Yes,0.0,0
+C0211,21.0,43.98,34.0,Two year,Fiber,Mailed check,Yes,1.0,0
+C0212,74.0,86.59,35.0,Two year,Fiber,Mailed check,No,0.0,0
+C0213,69.0,39.83,23.0,Month-to-month,None,Electronic check,Yes,1.0,1
+C0214,34.0,76.59,87.0,Month-to-month,DSL,Electronic check,No,0.0,0
+C0215,46.0,48.57,12.0,Two year,DSL,Electronic check,Yes,2.0,0
+C0216,36.0,66.1,66.0,Month-to-month,Fiber,Card,Yes,3.0,0
+C0217,40.0,,51.0,Month-to-month,DSL,Bank transfer,Yes,2.0,1
+C0218,66.0,80.42,38.0,Two year,DSL,Mailed check,Yes,1.0,0
+C0219,,106.78,27.0,Month-to-month,Fiber,Card,Yes,3.0,1
+C0220,74.0,,54.0,Month-to-month,DSL,Card,No,1.0,0
+C0221,62.0,89.61,99.0,Month-to-month,DSL,Electronic check,No,0.0,1
+C0222,42.0,73.23,13.0,Two year,Fiber,Bank transfer,Yes,1.0,0
+C0223,53.0,71.35,41.0,Month-to-month,Fiber,Mailed check,Yes,1.0,0
+C0224,38.0,67.56,64.0,Month-to-month,Fiber,Mailed check,Yes,2.0,0
+C0225,38.0,67.44,22.0,Month-to-month,None,Card,Yes,2.0,0
+C0226,75.0,53.93,52.0,One year,Fiber,,No,0.0,0
+C0227,22.0,57.36,53.0,Two year,Fiber,Card,No,2.0,0
+C0228,59.0,68.6,32.0,Two year,DSL,Card,Yes,3.0,1
+C0229,32.0,,91.0,Month-to-month,Fiber,Bank transfer,No,0.0,0
+C0230,19.0,44.1,10.0,Month-to-month,Fiber,Card,Yes,1.0,0
+C0231,72.0,76.34,97.0,Two year,DSL,Electronic check,No,2.0,0
+C0232,58.0,76.88,63.0,Month-to-month,Fiber,Bank transfer,No,1.0,0
+C0233,70.0,,3.0,Month-to-month,Fiber,Card,No,2.0,0
+C0234,46.0,45.98,65.0,Month-to-month,Fiber,Electronic check,Yes,5.0,0
+C0235,34.0,80.45,17.0,Month-to-month,Fiber,Card,No,3.0,0
+C0236,62.0,62.42,85.0,Month-to-month,Fiber,Electronic check,No,1.0,1
+C0237,34.0,109.79,32.0,Two year,DSL,Mailed check,No,1.0,0
+C0238,26.0,76.03,72.0,Month-to-month,DSL,Electronic check,Yes,2.0,0
+C0239,66.0,75.9,63.0,,Fiber,Electronic check,Yes,0.0,1
+C0240,44.0,53.22,87.0,Two year,DSL,Mailed check,Yes,1.0,0
+C0011,,59.15,120.0,Month-to-month,Fiber,Electronic check,No,2.0,0
+C0026,39.0,71.31,114.0,Month-to-month,None,Card,No,3.0,0
